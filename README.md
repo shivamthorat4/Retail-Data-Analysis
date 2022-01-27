@@ -1,5 +1,5 @@
 # Retail-Data-Analysis
-An exploratory Data Analysis for Retail dataset
+An exploratory Data Analysis for Retail dataset. The data visualisation is expressed in form of jpeg format images.
 
 ## Technologies
 Tableau
