@@ -1,4 +1,4 @@
-# Retail-Data-Analysis
+# Retail-Data-Analysis using Tableau
 An exploratory Data Analysis for Retail dataset. The data visualisation is expressed in form of jpeg format images.
 
 ## Technologies
